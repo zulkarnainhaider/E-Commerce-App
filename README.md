@@ -9,14 +9,14 @@ The Flutter eCommerce UI is a visually captivating and fully functional User Int
 ---
 ## Features 🌟
 - Browse the latest products.
-- Add product to favorite.
-- Remove product from favorite.
+- Add product to favorites.
+- Remove product from favorites.
 - Add product to cart.
 - Remove product from cart.
 - View product details.
 - View notifications.
 - Toggle app theme to dark theme.
 ---
-## Don't forget to :star: the repository cause I put lot effort to make this awesome project in flutter.
+## Don't forget to :star: the repository cause I put a lot of effort into making this awesome project in Flutter.
 ## Support ❤️
 For support, you can contact me[se.zulkarnainhaider@gmail.com]  
